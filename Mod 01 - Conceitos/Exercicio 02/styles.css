@@ -1,0 +1,12 @@
+.cen {
+  height: 500;
+  width: 700;
+  margin: 50;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.botoes {
+  display: grid;
+  grid-gap: 10px;
+}
